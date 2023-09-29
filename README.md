@@ -35,7 +35,7 @@ test   | 0.76  | 1.96 |
 </p>
 
 <p float="center">
-    <img src  = "assets\value4.JPG" width=670 /> 
+    <img src  = "assets\train_result.jpg" width=600 /> 
 </p>
 
 
