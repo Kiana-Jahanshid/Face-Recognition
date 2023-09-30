@@ -31,11 +31,11 @@ test   | 0.76  | 1.96 |
 
 
 <p float="center">
-    <img src  = "assets\value4.JPG" width=650 /> 
+    <img src  = "assets\value4.JPG" width=700 /> 
 </p>
 
 <p float="center">
-    <img src  = "assets\value4.JPG" width=600 /> 
+    <img src  = "assets\train_result.jpg" width=600 /> 
 </p>
 
 
@@ -45,5 +45,5 @@ for example :
 embedding_obj_features = DeepFace.represent(img_path="Leyla-Hatami-07_01.jpg" , model_name="ArcFace" , enforce_detection=False)
 ```
 <p float="center">
-    <img src  = "assets\predict_res.JPG" width=600 /> 
+    <img src  = "assets\predict_res.JPG" width=650 /> 
 </p>
