@@ -114,9 +114,8 @@ def generate_dataset():
 
 face_feature_numbers = generate_dataset()
 
-test_img =np.asarray( face_feature_numbers[0]["embedding"] )
+test_img =np.array( face_feature_numbers[0]["embedding"] )
 test_img = test_img.reshape(1 ,-1)
-print(test_img.shape)
 
 pred = model.predict(test_img)
 print(pred)
